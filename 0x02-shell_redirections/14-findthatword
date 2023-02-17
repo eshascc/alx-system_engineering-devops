@@ -1,2 +1,2 @@
 #!/bin/bash
-grab"root"/etc/passwd
+grab "root"/etc/passwd
